@@ -1,0 +1,5 @@
+﻿Category,Item,Marks
+Documentation,The code is properly commented,1
+Style,The code follows the best practices guideline, 2
+Correctness,The code compiles with no warnings or errors,1
+Correctness,The task is completed correctly,6
