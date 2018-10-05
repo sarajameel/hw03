@@ -33,7 +33,6 @@ int LineCounter(char* fileName)
     fclose(filePointer);                                //close file when done
     return counter;                                     //return line count
 }
-
 int main()
 {	
 	srand(time(0));
