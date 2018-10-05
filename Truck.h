@@ -35,9 +35,6 @@ class Truck
 	    //calculates the reamining petrol after the journey.
 	    float petrolLeft();
 	    
-	    /*//calculates the remaining money.
-	    void moneyLeft(float cost);*/
-	    
 	    //function which loads the boxes.
 	    void Load(int numBox);            //numbox produces 12 to 20 boxes.
 	 	//function which unloads the boxes.
